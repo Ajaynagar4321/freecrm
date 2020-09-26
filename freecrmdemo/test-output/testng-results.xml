@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="107600" started-at="2020-09-26T10:08:37Z" finished-at="2020-09-26T10:10:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="107600" started-at="2020-09-26T10:08:37Z" finished-at="2020-09-26T10:10:24Z">
+      <class name="scripts.TestCreateUser">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:scripts.TestCreateUser@7dc36524]" name="openBrowser" is-config="true" duration-ms="103829" started-at="2020-09-26T15:38:37Z" finished-at="2020-09-26T15:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:scripts.TestCreateUser@7dc36524]" name="testCreateUser" duration-ms="3737" started-at="2020-09-26T15:40:20Z" finished-at="2020-09-26T15:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- scripts.TestCreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

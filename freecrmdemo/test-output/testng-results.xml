@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="107600" started-at="2020-09-26T10:08:37Z" finished-at="2020-09-26T10:10:24Z">
+  <suite name="Default suite" duration-ms="93490" started-at="2020-09-28T14:37:33Z" finished-at="2020-09-28T14:39:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="107600" started-at="2020-09-26T10:08:37Z" finished-at="2020-09-26T10:10:24Z">
+    <test name="Default test" duration-ms="93490" started-at="2020-09-28T14:37:33Z" finished-at="2020-09-28T14:39:06Z">
       <class name="scripts.TestCreateUser">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:scripts.TestCreateUser@7dc36524]" name="openBrowser" is-config="true" duration-ms="103829" started-at="2020-09-26T15:38:37Z" finished-at="2020-09-26T15:40:20Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:scripts.TestCreateUser@3cb5cdba]" name="openBrowser" is-config="true" duration-ms="90949" started-at="2020-09-28T20:07:33Z" finished-at="2020-09-28T20:09:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:scripts.TestCreateUser@7dc36524]" name="testCreateUser" duration-ms="3737" started-at="2020-09-26T15:40:20Z" finished-at="2020-09-26T15:40:24Z">
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:scripts.TestCreateUser@3cb5cdba]" name="testCreateUser" duration-ms="2519" started-at="2020-09-28T20:09:04Z" finished-at="2020-09-28T20:09:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateUser -->
